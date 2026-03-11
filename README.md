@@ -109,15 +109,7 @@ Rather than blindly using mean or median everywhere, each column was inspected i
 
 ---
 
-# 🖼️ Key Visualizations
 
-### Correlation Heatmap
-![Heatmap](images/heatmap.png)
-
-### Feature Distribution (Before vs After Winsorization)
-![Winsorization](images/winsorization_kde.png)
-
-> To reproduce all plots, run `fetal_health_eda.py` — all visualizations are generated and displayed inline.
 
 ---
 
